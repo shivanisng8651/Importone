@@ -5,7 +5,6 @@ import InputQuery from "./InputQuery";
 import SubHeading from "./SubHeading";
 import SubmitButton from "./SubmitButton";
 
-
 const App = () => {
   return (
     <div id="main">
